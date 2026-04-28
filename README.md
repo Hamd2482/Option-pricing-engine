@@ -34,6 +34,10 @@ python option_pricing_engine.py
 * Convergence plots
 * results.csv file
 
+## Convergence Plot
+
+![Convergence](convergence.png)
+
 ## Learnings
 
 * Stochastic modeling and simulation
